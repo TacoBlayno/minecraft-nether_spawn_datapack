@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"pack_format": 61,
+		"description": "Makes the player start in the Nether instead of the Overworld."
+	}
+}
